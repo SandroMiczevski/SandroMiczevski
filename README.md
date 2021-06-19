@@ -1,9 +1,9 @@
-Hello, I’m @SandroMiczevski! 👋
+Hello, I’m Sandro Miczevski Jr! 👋
 
 
-- How to reach me:
-- 
-  📩 e-mail: sandro.miczevski@outlook.com
+How to reach me:
+
+📩 e-mail: sandro.miczevski@outlook.com
 <!--
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...

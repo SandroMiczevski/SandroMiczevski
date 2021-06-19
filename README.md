@@ -2,6 +2,7 @@ Hello, I’m @SandroMiczevski! 👋
 
 
 - How to reach me:
+- 
   📩 e-mail: sandro.miczevski@outlook.com
 <!--
 - 👀 I’m interested in ...

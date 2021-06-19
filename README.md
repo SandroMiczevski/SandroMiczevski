@@ -1,8 +1,7 @@
 Hello, I’m Sandro Miczevski Jr! 👋
 
 
-How to reach me:
-
+How to reach me:<br/>
 📩 e-mail: sandro.miczevski@outlook.com
 <!--
 - 👀 I’m interested in ...

@@ -6,8 +6,8 @@ I am a somewhat experienced Business Intelligence/Data Analyst making an effort 
 Stay up-to-date with tech trends, and improve myself.<br/>
 
 🌱 I’m currently learning:<br/>
-I am always trying to learn something new and useful.
-Recently, I've been focusing on Frontend/Backend (mostly MERN stack) and Flutter, and also trying to learn about containers (Kubernetes and Docker).
+I am always trying to learn something new and useful. <br/>
+Lately, I've been getting acquainted with Frontend and leaning towards Backend (mostly MERN stack) and Flutter, and also trying to learn about containers (Kubernetes and Docker).
 
 How to reach me: <br/>
 📩 e-mail: sandro.miczevski@outlook.com

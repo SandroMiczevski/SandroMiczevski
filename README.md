@@ -1,4 +1,5 @@
-Hello, I’m Sandro Miczevski Jr! 👋 <br/>
+<h2>Hey, I’m Sandro!👋 <br/></h2> 
+
 I am a somewhat experienced Business Intelligence/Data Analyst making an effort to gain experience as a Fullstack developer
 
 👀 I’m interested in:<br/>
@@ -10,6 +11,19 @@ Recently, I've been focusing on Frontend/Backend (mostly MERN stack) and Flutter
 
 How to reach me: <br/>
 📩 e-mail: sandro.miczevski@outlook.com
+
+
+<br/>
+
+📈 My GitHub Stats:
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SandroMiczevski&theme=react&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+  <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=SandroMiczevski&layout=compact&theme=react&)/>
+
+</div>
+
+
 
 <!--
 - 👀 I’m interested in ...

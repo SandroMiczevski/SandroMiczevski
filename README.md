@@ -5,13 +5,8 @@ I am a somewhat experienced Business Intelligence/Data Analyst making an effort 
 👀 I’m interested in:<br/>
 Stay up-to-date with tech trends, and improve myself.<br/>
 
-🌱 I’m currently learning:<br/>
-I am always trying to learn something new and useful. <br/>
-Lately, I've been getting acquainted with Frontend and leaning towards Backend (mostly MERN stack) and Flutter, and also trying to learn about containers (Kubernetes and Docker).
-
 How to reach me: <br/>
-📩 e-mail: sandro.miczevski@outlook.com
-
+📩 e-mail: sandro.mck@outlook.com
 
 <br/>
 
@@ -27,7 +22,7 @@ How to reach me: <br/>
 <!--
 - 👀 I’m interested in ...
 - 💞️ I’m looking to collaborate on ...
-
+- 🌱 I’m currently learning:<br/>
 --->
 
 <!---

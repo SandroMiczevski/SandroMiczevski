@@ -2,9 +2,6 @@
 
 I am a somewhat experienced Business Intelligence/Data Analyst making an effort to gain experience as a Fullstack developer
 
-👀 I’m interested in:<br/>
-Stay up-to-date with tech trends, and improve myself.<br/>
-
 How to reach me: <br/>
 📩 e-mail: sandro.mck@outlook.com
 

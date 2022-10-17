@@ -1,6 +1,6 @@
 <h2>Hey, I’m Sandro!👋 <br/></h2> 
 
-I am a somewhat experienced Business Intelligence/Data Analyst making an effort to gain experience an transition into Software Engineering.
+I am an experienced Business Intelligence/Data Analyst making an effort to gain experience an transition into Software Engineering.
 
 I have, recently, started the [Odin Project](https://www.theodinproject.com) to review and get into more depth with my studies about Full Stack Development.
 

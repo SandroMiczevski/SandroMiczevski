@@ -1,6 +1,11 @@
 <h2>Hey, I’m Sandro!👋 <br/></h2> 
 
-I am a somewhat experienced Business Intelligence/Data Analyst making an effort to gain experience as a Fullstack developer
+I am a somewhat experienced Business Intelligence/Data Analyst making an effort to gain experience an transition into Software Engineering.
+
+I have, recently, started the [Odin Project](https://www.theodinproject.com) to review and get into more depth with my studies about Full Stack Development.
+
+This is the progress, so far:
+[1. Odin Recipes Page.](https://github.com/SandroMiczevski/odin-recipes)
 
 How to reach me: <br/>
 📩 e-mail: sandro.mck@outlook.com

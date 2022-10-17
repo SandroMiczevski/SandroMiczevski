@@ -5,6 +5,7 @@ I am a somewhat experienced Business Intelligence/Data Analyst making an effort 
 I have, recently, started the [Odin Project](https://www.theodinproject.com) to review and get into more depth with my studies about Full Stack Development.
 
 This is the progress, so far:
+
 [1. Odin Recipes Page.](https://github.com/SandroMiczevski/odin-recipes)
 
 How to reach me: <br/>

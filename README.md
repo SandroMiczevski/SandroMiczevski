@@ -18,7 +18,7 @@ Besides the odin project some other repos/contributions you can find:
 
 [1. Music Genre Classifier](https://github.com/SandroMiczevski/Music-Genre-Classifier/blob/main/Genre_Data_Preparation.ipynb)
 
-How to reach me: <br/>
+<h2>How to reach me: </h2><br/>
 📩 e-mail: sandro.mck@outlook.com
 
 <br/>

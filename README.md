@@ -2,11 +2,21 @@
 
 I am an experienced Business Intelligence/Data Analyst making an effort to gain experience an transition into Software Engineering.
 
-I have, recently, started the [Odin Project](https://www.theodinproject.com) to review and get into more depth with my studies about Full Stack Development.
+<h2>Software Development</h2>
 
-This is the progress, so far:
+I have, recently, started the [Odin Project](https://www.theodinproject.com) to improve myself as a Full Stack Software Developer. This is the progress, so far:
 
 [1. Odin Recipes Page.](https://github.com/SandroMiczevski/odin-recipes)
+
+
+Besides the odin project some other repos/contributions you can find:
+
+[1. Simple RESTful API](https://github.com/SandroMiczevski/testing-rest-service-node)
+
+
+<h2>Data Analysis</h2>
+
+[1. Music Genre Classifier](https://github.com/SandroMiczevski/Music-Genre-Classifier/blob/main/Genre_Data_Preparation.ipynb)
 
 How to reach me: <br/>
 📩 e-mail: sandro.mck@outlook.com

@@ -24,7 +24,7 @@ Besides the odin project some other repos/contributions you can find:
 </ul>
 
 <h2>How to reach me: </h2><br/>
-📩 e-mail: sandro.mck@outlook.com  | [Linkedin](https://www.linkedin.com/in/sandro-m-jr/)
+📩 e-mail: sandro.mck@outlook.com  | <a href="https://www.linkedin.com/in/sandro-m-jr/">LinkedIn</a>
 
 <br/>
 

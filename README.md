@@ -8,20 +8,23 @@ I have, recently, started the [Odin Project](https://www.theodinproject.com) to 
 
 <ul>
   <li><a href="https://github.com/SandroMiczevski/odin-recipes">Odin Recipes Page.</a></li>  
-  <li>[2. CSS Exercises.](https://github.com/SandroMiczevski/odin-css-exercises)</li>  
+  <li><a href="https://github.com/SandroMiczevski/odin-css-exercises">CSS Exercises.</a></li>  
 </ul>
 
 Besides the odin project some other repos/contributions you can find:
 
-[1. Simple RESTful API](https://github.com/SandroMiczevski/testing-rest-service-node)
+<ul>
+  <li><a href="https://github.com/SandroMiczevski/testing-rest-service-node">Simple RESTful API</a> </li>
+</ul>
 
+<h2>Data Analysis & Artificial Intelligence</h2>
 
-<h2>Data Analysis</h2>
-
-[1. Music Genre Classifier](https://github.com/SandroMiczevski/Music-Genre-Classifier/blob/main/Genre_Data_Preparation.ipynb)
+<ul>
+  <li><a href="https://github.com/SandroMiczevski/Music-Genre-Classifier/blob/main/Genre_Data_Preparation.ipynb">Music Genre Classifier</a></li>
+</ul>
 
 <h2>How to reach me: </h2><br/>
-📩 e-mail: sandro.mck@outlook.com
+📩 e-mail: sandro.mck@outlook.com  | [Linkedin](https://www.linkedin.com/in/sandro-m-jr/)
 
 <br/>
 

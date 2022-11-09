@@ -7,6 +7,7 @@ I am an experienced Business Intelligence/Data Analyst making an effort to gain 
 I have, recently, started the [Odin Project](https://www.theodinproject.com) to improve myself as a Full Stack Software Developer. This is the progress, so far:
 
 [1. Odin Recipes Page.](https://github.com/SandroMiczevski/odin-recipes)
+[2. CSS Exercises.](https://github.com/SandroMiczevski/odin-css-exercises)
 
 
 Besides the odin project some other repos/contributions you can find:

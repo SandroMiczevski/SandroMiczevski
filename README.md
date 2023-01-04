@@ -9,6 +9,8 @@ I have, recently, started the [Odin Project](https://www.theodinproject.com) to 
 <ul>
   <li><a href="https://github.com/SandroMiczevski/odin-recipes">Odin Recipes Page.</a></li>  
   <li><a href="https://github.com/SandroMiczevski/odin-css-exercises">CSS Exercises.</a></li>  
+  <li><a href="https://github.com/SandroMiczevski/odin-landing-page">Landing Page Example.</a></li>
+  <li><a href="https://github.com/SandroMiczevski/odin-landing-page">Game: Rock, Paper, Scissors.</a></li>  
 </ul>
 
 Besides the odin project some other repos/contributions you can find:

@@ -1,8 +1,15 @@
-<h2>Hey, I’m Sandro!👋 <br/></h2> 
+<h2>Hello, I’m Sandro!👋 <br/></h2> 
 
-I am an experienced Business Intelligence/Data Analyst making an effort to gain experience an transition into Software Engineering.
+I am an experienced Data Scientist making an effort to gain experience in Software Engineering and learning more about Data Science.
 
-<h2>Software Development</h2>
+<h2>Data Science projects</h2>
+
+<ul>
+  <li><a href="https://github.com/SandroMiczevski/Music-Genre-Classifier/blob/main/Genre_Data_Preparation.ipynb">Music Genre Classifier</a></li>
+</ul>
+
+
+<h2>Software Engineering projects</h2>
 
 I have, recently, started the [Odin Project](https://www.theodinproject.com) to improve myself as a Full Stack Software Developer. This is the progress, so far:
 
@@ -19,11 +26,6 @@ Besides the odin project some other repos/contributions you can find:
   <li><a href="https://github.com/SandroMiczevski/testing-rest-service-node">Simple RESTful API</a> </li>
 </ul>
 
-<h2>Data Analysis & Artificial Intelligence</h2>
-
-<ul>
-  <li><a href="https://github.com/SandroMiczevski/Music-Genre-Classifier/blob/main/Genre_Data_Preparation.ipynb">Music Genre Classifier</a></li>
-</ul>
 
 <h2>How to reach me: </h2>
 
